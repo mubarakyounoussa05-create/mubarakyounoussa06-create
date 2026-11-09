@@ -6,7 +6,7 @@ Engineering and Technology student from Ghana , aiming to study in Finland.
 -WASSCE: Excellent Grade
 -Abibiman Complex School: Junior High School
 
-#Skills
+##Skills
 -Science and laboratory practicals
 -Good English Communication skills
 -Basic computing
